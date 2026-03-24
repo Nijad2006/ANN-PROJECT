@@ -61,14 +61,24 @@ ANN-Mini-Project/
 └── README.md
 
 ## 🎯 Conclusion
+- Strong foundation in **Artificial Neural Networks (ANN)**
+- Implemented **Supervised Learning Models**:
+  - Perceptron
+  - Feedforward Neural Network
+- Implemented **Unsupervised Learning Model**:
+  - Competitive Learning Network
+- Demonstrated **real-world problem solving** using ANN
+- Understood differences between:
+  - Linear and non-linear models
+  - Supervised vs Unsupervised learning
+- Gained practical knowledge of:
+  - Weight updates
+  - Learning rate tuning
+  - Model training and prediction
+- Improved ability to handle **noisy data and pattern recognition**
+- Learned how different ANN models are applied to different problem types
 
-This project provided a strong foundation in ANN concepts by implementing:
-
-✔️ Supervised Learning (Perceptron, Feedforward ANN)
-✔️ Unsupervised Learning (Competitive Learning)
-✔️ Real-world problem solving using neural networks
-
-It highlights how different neural network architectures are suited for different types of problems, ranging from simple classification to complex pattern recognition.
+> **Final Insight:** Neural networks can solve both simple and complex problems depending on architecture and training.
 
 ## 📎 Submission Note
 

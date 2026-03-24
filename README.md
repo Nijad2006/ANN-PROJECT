@@ -61,21 +61,19 @@ implementation.
 * Handling noisy data
 * Model accuracy improvement
 
---
 
 ## 📁 Repository Structure
 
-```
 ANN-Mini-Project/
 │
 ├── perceptron/
 │   └── perceptron.py
 │
 ├── competitive-learning/
-│   └── 
+│   └── Layer competitive learning network.py
 │
 ├── feedforward-ann/
-│   └── student_ann.py
+│   └── feedforward neural network.py
 │
 └── README.md
 ```
@@ -88,6 +86,6 @@ This mini project helped in understanding core ANN concepts such as supervised l
 
 ---
 
-## 📎 Submission
+## 📎 Submition 
 
 This repository is submitted as part of the ANN course mini-project evaluation.

@@ -8,7 +8,7 @@ y = np.array([0,0,0,1])
 
 # Model
 model = Perceptron(max_iter=1000, eta0=0.1)
-model.fit(X, y)
+model.fit(X,y)
 
 # Prediction
 y_pred = model.predict(X)

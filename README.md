@@ -9,10 +9,6 @@ Artificial Neural Network (24SBT113)
 - MUHAMMED MISHAL P.T (01SU24AI057)
 - JISHNU.K.           (01SU24AI037)
 
-implementation.
-
----
-
 ## 🚀 Projects Included
 
 ### 🔹 1. Perceptron Model
@@ -39,14 +35,11 @@ implementation.
 * Output: Pass / Fail prediction
 * Demonstrates real-world application of ANN
 
----
-
 ## 🛠️ Technologies Used
 
 * Python
 * NumPy
 * Matplotlib
-
 
 ## 📊 Results
 
@@ -76,9 +69,7 @@ ANN-Mini-Project/
 │   └── feedforward neural network.py
 │
 └── README.md
-```
 
----
 
 ## 🎯 Conclusion
 

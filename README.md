@@ -33,14 +33,17 @@ Output:
 Pass / Fail classification
 
 ## 🛠️ Technologies Used
-Python
-NumPy
-Matplotlib
-(Optional: Scikit-learn for comparison/testing)
-📊 Results & Observations
-✅ Perceptron correctly classified logical operations (AND gate)
-✅ Competitive learning network successfully grouped noisy patterns
-✅ Feedforward ANN produced meaningful predictions based on input features
+
+- Python  
+- NumPy  
+- Matplotlib  
+- (Optional) Scikit-learn for comparison/testing  
+
+## 📊 Results & Observations
+
+- ✅ Perceptron correctly classified logical operations (AND gate)  
+- ✅ Competitive learning network successfully grouped noisy patterns  
+- ✅ Feedforward ANN produced meaningful predictions based on input features  
 
 
 ## ⚠️ Challenges Faced

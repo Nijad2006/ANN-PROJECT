@@ -1,12 +1,13 @@
-🧠 ANN Mini Project
+## ANN Mini Project
 Artificial Neural Network (24SBT113)
-👥 Team Members
+
+## 👥 Team Members
 MOHAMMED NIJAD T.P — 01SU24AI054
 MUHAMMED FARAS K. — 01SU24AI053
 MUHAMMED MISHAL P.T — 01SU24AI057
 JISHNU K. — 01SU24AI037
-🚀 Project Overview
 
+## 🚀 Project Overview
 This mini project focuses on implementing fundamental Artificial Neural Network (ANN) models to understand both supervised and unsupervised learning techniques. Each model is designed to demonstrate a specific concept with practical implementation using Python.
 
 🔹 1. Perceptron Model
@@ -14,17 +15,11 @@ Implemented a basic single-layer perceptron from scratch
 Trained and tested on logical operations (AND gate)
 Demonstrates binary classification using supervised learning
 
-📌 Key Insight:
-The perceptron successfully classifies linearly separable data but fails for non-linear problems like XOR.
-
 🔹 2. Competitive Learning Network (Unique Implementation)
 Developed a 2-layer competitive learning model
 Trained on noisy 2D shape data (circle & square patterns)
 Neurons self-organize to become specialized pattern detectors
 Demonstrates unsupervised learning and clustering
-
-📌 Key Insight:
-The network groups similar patterns without labeled data, showing self-organization behavior.
 
 🔹 3. Feedforward Neural Network (Real-World Application)
 Built a multi-layer feedforward neural network
@@ -36,10 +31,7 @@ Attendance
 Output:
 Pass / Fail classification
 
-📌 Key Insight:
-The model captures non-linear relationships and provides better prediction accuracy compared to simple models.
-
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python
 NumPy
 Matplotlib
@@ -49,15 +41,15 @@ Matplotlib
 ✅ Competitive learning network successfully grouped noisy patterns
 ✅ Feedforward ANN produced meaningful predictions based on input features
 
-📌 Overall, each model demonstrated its strengths based on the problem type.
 
-⚠️ Challenges Faced
+## ⚠️ Challenges Faced
 Selecting an appropriate learning rate
 Understanding and debugging weight update mechanisms
 Handling noisy and unstructured data
 Improving model accuracy and convergence
 Choosing optimal parameters (epochs, neurons, layers)
-📁 Repository Structure
+
+## 📁 Repository Structure
 ANN-Mini-Project/
 │
 ├── perceptron/
@@ -70,7 +62,8 @@ ANN-Mini-Project/
 │   └── feedforward_neural_network.py
 │
 └── README.md
-🎯 Conclusion
+
+## 🎯 Conclusion
 
 This project provided a strong foundation in ANN concepts by implementing:
 

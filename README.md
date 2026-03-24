@@ -54,13 +54,10 @@ ANN-Mini-Project/
 │
 ├── perceptron/
 │   └── perceptron.py
-│
 ├── competitive-learning/
 │   └── competitive_learning_network.py
-│
 ├── feedforward-ann/
 │   └── feedforward_neural_network.py
-│
 └── README.md
 
 ## 🎯 Conclusion
@@ -73,6 +70,6 @@ This project provided a strong foundation in ANN concepts by implementing:
 
 It highlights how different neural network architectures are suited for different types of problems, ranging from simple classification to complex pattern recognition.
 
-📎 Submission Note
+## 📎 Submission Note
 
 This repository is submitted as part of the Artificial Neural Network (24SBT113) mini-project evaluation.

@@ -2,10 +2,11 @@
 Artificial Neural Network (24SBT113)
 
 ## 👥 Team Members
--MOHAMMED NIJAD T.P — 01SU24AI054,
--MUHAMMED FARAS K. — 01SU24AI053,
--MUHAMMED MISHAL P.T — 01SU24AI057,
--JISHNU K. — 01SU24AI037
+
+- MOHAMMED NIJAD T.P — 01SU24AI054  
+- MUHAMMED FARAS K. — 01SU24AI053  
+- MUHAMMED MISHAL P.T — 01SU24AI057  
+- JISHNU K. — 01SU24AI037  
 
 ## 🚀 Project Overview
 This mini project focuses on implementing fundamental Artificial Neural Network (ANN) models to understand both supervised and unsupervised learning techniques. Each model is designed to demonstrate a specific concept with practical implementation using Python.

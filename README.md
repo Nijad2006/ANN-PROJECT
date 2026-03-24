@@ -2,10 +2,10 @@
 Artificial Neural Network (24SBT113)
 
 ## 👥 Team Members
-MOHAMMED NIJAD T.P — 01SU24AI054,
-MUHAMMED FARAS K. — 01SU24AI053,
-MUHAMMED MISHAL P.T — 01SU24AI057,
-JISHNU K. — 01SU24AI037
+-MOHAMMED NIJAD T.P — 01SU24AI054,
+-MUHAMMED FARAS K. — 01SU24AI053,
+-MUHAMMED MISHAL P.T — 01SU24AI057,
+-JISHNU K. — 01SU24AI037
 
 ## 🚀 Project Overview
 This mini project focuses on implementing fundamental Artificial Neural Network (ANN) models to understand both supervised and unsupervised learning techniques. Each model is designed to demonstrate a specific concept with practical implementation using Python.
@@ -50,15 +50,14 @@ Improving model accuracy and convergence
 Choosing optimal parameters (epochs, neurons, layers)
 
 ## 📁 Repository Structure
-ANN-Mini-Project/
-│
-├── perceptron/
-│   └── perceptron.py
-├── competitive-learning/
-│   └── competitive_learning_network.py
-├── feedforward-ann/
-│   └── feedforward_neural_network.py
-└── README.md
+- ANN-Mini-Project/
+  - perceptron/
+    - perceptron.py
+  - competitive-learning/
+    - competitive_learning_network.py
+  - feedforward-ann/
+    - feedforward_neural_network.py
+  - README.md
 
 ## 🎯 Conclusion
 - Strong foundation in **Artificial Neural Networks (ANN)**
@@ -77,8 +76,6 @@ ANN-Mini-Project/
   - Model training and prediction
 - Improved ability to handle **noisy data and pattern recognition**
 - Learned how different ANN models are applied to different problem types
-
-> **Final Insight:** Neural networks can solve both simple and complex problems depending on architecture and training.
 
 ## 📎 Submission Note
 
